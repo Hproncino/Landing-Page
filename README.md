@@ -7,10 +7,10 @@ Some validators were used like this ones;
 
 Below are some links that I used for customize some assets and some references too.
 
-https://www.svgbackgrounds.com
+- https://www.svgbackgrounds.com
 
-https://www.w3schools.com/colors/colors_palettes.asp
+- https://www.w3schools.com/colors/colors_palettes.asp
 
-https://undraw.co
+- https://undraw.co
 
-https://svgomg.net
+- https://svgomg.net
