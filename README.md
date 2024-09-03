@@ -1,6 +1,4 @@
-Landing Page made for auto learning, some assets came from my artstation on the following link: https://henrycortez9.artstation.com/
-
-Some validators were used like this ones;
+Some validators that I used:
 - https://validator.w3.org/
 - https://jigsaw.w3.org/css-validator/
 - https://achecks.org/achecker/
