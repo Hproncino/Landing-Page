@@ -12,3 +12,5 @@ Below are some links that I used for customize some assets and some references t
 - https://undraw.co
 
 - https://svgomg.net
+
+This website was made using pure HTML and CSS.
