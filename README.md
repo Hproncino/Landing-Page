@@ -16,4 +16,5 @@ Below are some links that I used for customize some assets and some references t
 This website was made using pure HTML and CSS.
 
 The website is availble for demonstration at the following link.
-https://gentle-peony-4c0b19.netlify.app
+
+- https://gentle-peony-4c0b19.netlify.app
